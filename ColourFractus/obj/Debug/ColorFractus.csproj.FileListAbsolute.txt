@@ -1,0 +1,11 @@
+c:\users\abbas\documents\visual studio 2013\Projects\ColourFractus\ColourFractus\bin\Debug\ColourFractus.exe.config
+c:\users\abbas\documents\visual studio 2013\Projects\ColourFractus\ColourFractus\bin\Debug\ColourFractus.exe
+c:\users\abbas\documents\visual studio 2013\Projects\ColourFractus\ColourFractus\bin\Debug\ColourFractus.pdb
+c:\users\abbas\documents\visual studio 2013\Projects\ColourFractus\ColourFractus\obj\Debug\ColourFractus.ColorFractus.resources
+c:\users\abbas\documents\visual studio 2013\Projects\ColourFractus\ColourFractus\obj\Debug\ColourFractus.Properties.Resources.resources
+c:\users\abbas\documents\visual studio 2013\Projects\ColourFractus\ColourFractus\obj\Debug\ColorFractus.csproj.GenerateResource.Cache
+c:\users\abbas\documents\visual studio 2013\Projects\ColourFractus\ColourFractus\obj\Debug\ColourFractus.exe
+c:\users\abbas\documents\visual studio 2013\Projects\ColourFractus\ColourFractus\obj\Debug\ColourFractus.pdb
+C:\Users\Abbas\Desktop\ColourFractus\ColourFractus\bin\Debug\ColourFractus.exe.config
+C:\Users\Abbas\Desktop\ColourFractus\ColourFractus\obj\Debug\ColourFractus.exe
+C:\Users\Abbas\Desktop\ColourFractus\ColourFractus\obj\Debug\ColourFractus.pdb
